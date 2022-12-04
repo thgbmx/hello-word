@@ -9,3 +9,7 @@ two years later, I'm at HangZhou.
 I hear and I forget.
 I see  and I remember.
 I do   and I understand.
+
+
+date: 2022-12-04
+notes: begining to learn github!
