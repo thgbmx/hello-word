@@ -1,1 +1,6 @@
 #include<stdio>
+
+int main(){
+
+
+}
