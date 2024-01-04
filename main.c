@@ -1,7 +1,8 @@
 #include<stdio>
 
 int main(){
-    ing a = 0;
-
+    int a = 0;
+    
+    return 0;
 }
 
